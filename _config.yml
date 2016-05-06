@@ -1,0 +1,28 @@
+name: boom-baby
+favicon: null
+layout_spectrum: 0.01601809519343078
+typography_spectrum: 0.8242084279190749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3933424095157534
+  lightness: 0.16613770695403218
+  saturation: 0.5708657049108297
+  rhythmicContrast: 0.6842509584967047
+purpose: []
